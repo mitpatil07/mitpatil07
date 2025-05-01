@@ -36,7 +36,7 @@
 ---
 
 ### 📬 Contact Me:
-- 📧 Email: **miteshpati65@gmail.com** 
+- 📧 Email: **mitesh8767@gmail.com** 
 - 💼 LinkedIn: [mitpatil07](https://www.linkedin.com/in/mitpatil07)
 - 💼 Instagram: [mitpatil07](https://www.instagram.com/mitpatil_07/)
 
