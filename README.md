@@ -28,13 +28,6 @@
 
 ---
 
-### 📂 Featured Projects:
-- 📚 [BookNest](https://github.com/mitpatil07/BookNest) – Online Bookstore using Django  
-- 📦 Real-time Packet Tracer with Arduino UNO  
-- 🎨 Image-to-Cartoon Transformer using Django & OpenCV
-
----
-
 ### 📬 Contact Me:
 - 📧 Email: **mitesh8767@gmail.com** 
 - 💼 LinkedIn: [mitpatil07](https://www.linkedin.com/in/mitpatil07)
