@@ -9,7 +9,7 @@
 
 ### 🔭 Currently Working On:
 - 🌐 Web Projects using **Django** and **React**
-- 📱 Android Apps using **Java & Kotlin**
+- 📱 Programming Language **Java, C++, Python**
 - 🤖 AI/ML & IoT integration projects
 
 ---
