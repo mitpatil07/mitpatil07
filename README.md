@@ -23,10 +23,6 @@
 
 ---
 
-### 💼 Internship:
-- Java Full Stack Developer Intern @ **Netliaf Pvt. Ltd.**
-
----
 
 ### 📬 Contact Me:
 - 📧 Email: **mitesh8767@gmail.com** 
